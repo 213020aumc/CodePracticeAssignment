@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\bin\Debug\net6.0\213020SingleInheritance.exe
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\bin\Debug\net6.0\213020SingleInheritance.deps.json
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\bin\Debug\net6.0\213020SingleInheritance.runtimeconfig.json
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\bin\Debug\net6.0\213020SingleInheritance.dll
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\bin\Debug\net6.0\213020SingleInheritance.pdb
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.dll
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\refint\213020SingleInheritance.dll
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.pdb
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\213020SingleInheritance.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020SingleInheritance\213020SingleInheritance\obj\Debug\net6.0\ref\213020SingleInheritance.dll

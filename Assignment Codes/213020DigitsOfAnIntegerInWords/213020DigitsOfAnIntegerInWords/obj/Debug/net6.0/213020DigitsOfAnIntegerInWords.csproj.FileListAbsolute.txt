@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\bin\Debug\net6.0\213020DigitsOfAnIntegerInWords.exe
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\bin\Debug\net6.0\213020DigitsOfAnIntegerInWords.deps.json
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\bin\Debug\net6.0\213020DigitsOfAnIntegerInWords.runtimeconfig.json
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\bin\Debug\net6.0\213020DigitsOfAnIntegerInWords.dll
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\bin\Debug\net6.0\213020DigitsOfAnIntegerInWords.pdb
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.dll
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\refint\213020DigitsOfAnIntegerInWords.dll
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.pdb
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\213020DigitsOfAnIntegerInWords.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020DigitsOfAnIntegerInWords\213020DigitsOfAnIntegerInWords\obj\Debug\net6.0\ref\213020DigitsOfAnIntegerInWords.dll

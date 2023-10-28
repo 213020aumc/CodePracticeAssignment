@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\bin\Debug\net6.0\213020ConstructorOverloading.exe
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\bin\Debug\net6.0\213020ConstructorOverloading.deps.json
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\bin\Debug\net6.0\213020ConstructorOverloading.runtimeconfig.json
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\bin\Debug\net6.0\213020ConstructorOverloading.dll
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\bin\Debug\net6.0\213020ConstructorOverloading.pdb
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.dll
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\refint\213020ConstructorOverloading.dll
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.pdb
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\213020ConstructorOverloading.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020ConstructorOverloading\213020ConstructorOverloading\obj\Debug\net6.0\ref\213020ConstructorOverloading.dll

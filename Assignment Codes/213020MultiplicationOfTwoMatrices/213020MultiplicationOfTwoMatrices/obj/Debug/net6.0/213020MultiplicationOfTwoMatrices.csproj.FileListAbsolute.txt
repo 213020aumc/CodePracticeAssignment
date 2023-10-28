@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\bin\Debug\net6.0\213020MultiplicationOfTwoMatrices.exe
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\bin\Debug\net6.0\213020MultiplicationOfTwoMatrices.deps.json
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\bin\Debug\net6.0\213020MultiplicationOfTwoMatrices.runtimeconfig.json
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\bin\Debug\net6.0\213020MultiplicationOfTwoMatrices.dll
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\bin\Debug\net6.0\213020MultiplicationOfTwoMatrices.pdb
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.dll
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\refint\213020MultiplicationOfTwoMatrices.dll
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.pdb
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\213020MultiplicationOfTwoMatrices.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020MultiplicationOfTwoMatrices\213020MultiplicationOfTwoMatrices\obj\Debug\net6.0\ref\213020MultiplicationOfTwoMatrices.dll

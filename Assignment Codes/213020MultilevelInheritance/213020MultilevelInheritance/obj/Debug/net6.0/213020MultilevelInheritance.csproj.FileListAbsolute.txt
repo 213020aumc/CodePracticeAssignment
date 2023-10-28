@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\bin\Debug\net6.0\213020MultilevelInheritance.exe
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\bin\Debug\net6.0\213020MultilevelInheritance.deps.json
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\bin\Debug\net6.0\213020MultilevelInheritance.runtimeconfig.json
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\bin\Debug\net6.0\213020MultilevelInheritance.dll
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\bin\Debug\net6.0\213020MultilevelInheritance.pdb
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.dll
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\refint\213020MultilevelInheritance.dll
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.pdb
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\213020MultilevelInheritance.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020MultilevelInheritance\213020MultilevelInheritance\obj\Debug\net6.0\ref\213020MultilevelInheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\bin\Debug\net6.0\213020ParameterizedConstructor.exe
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\bin\Debug\net6.0\213020ParameterizedConstructor.deps.json
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\bin\Debug\net6.0\213020ParameterizedConstructor.runtimeconfig.json
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\bin\Debug\net6.0\213020ParameterizedConstructor.dll
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\bin\Debug\net6.0\213020ParameterizedConstructor.pdb
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.dll
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\refint\213020ParameterizedConstructor.dll
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.pdb
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\213020ParameterizedConstructor.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020ParameterizedConstructor\213020ParameterizedConstructor\obj\Debug\net6.0\ref\213020ParameterizedConstructor.dll

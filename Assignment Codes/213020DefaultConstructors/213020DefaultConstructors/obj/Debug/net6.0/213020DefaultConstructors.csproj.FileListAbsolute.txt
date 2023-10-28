@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\bin\Debug\net6.0\213020DefaultConstructors.exe
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\bin\Debug\net6.0\213020DefaultConstructors.deps.json
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\bin\Debug\net6.0\213020DefaultConstructors.runtimeconfig.json
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\bin\Debug\net6.0\213020DefaultConstructors.dll
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\bin\Debug\net6.0\213020DefaultConstructors.pdb
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.dll
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\refint\213020DefaultConstructors.dll
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.pdb
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\213020DefaultConstructors.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020DefaultConstructors\213020DefaultConstructors\obj\Debug\net6.0\ref\213020DefaultConstructors.dll

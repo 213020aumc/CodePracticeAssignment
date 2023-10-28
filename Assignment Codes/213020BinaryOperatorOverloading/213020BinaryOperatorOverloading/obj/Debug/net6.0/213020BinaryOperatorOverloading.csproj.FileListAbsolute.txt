@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\bin\Debug\net6.0\213020BinaryOperatorOverloading.exe
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\bin\Debug\net6.0\213020BinaryOperatorOverloading.deps.json
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\bin\Debug\net6.0\213020BinaryOperatorOverloading.runtimeconfig.json
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\bin\Debug\net6.0\213020BinaryOperatorOverloading.dll
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\bin\Debug\net6.0\213020BinaryOperatorOverloading.pdb
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.dll
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\refint\213020BinaryOperatorOverloading.dll
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.pdb
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\213020BinaryOperatorOverloading.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020BinaryOperatorOverloading\213020BinaryOperatorOverloading\obj\Debug\net6.0\ref\213020BinaryOperatorOverloading.dll

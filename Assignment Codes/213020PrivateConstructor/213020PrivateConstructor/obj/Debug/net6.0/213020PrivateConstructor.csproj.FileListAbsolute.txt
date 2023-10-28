@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\bin\Debug\net6.0\213020PrivateConstructor.exe
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\bin\Debug\net6.0\213020PrivateConstructor.deps.json
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\bin\Debug\net6.0\213020PrivateConstructor.runtimeconfig.json
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\bin\Debug\net6.0\213020PrivateConstructor.dll
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\bin\Debug\net6.0\213020PrivateConstructor.pdb
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.dll
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\refint\213020PrivateConstructor.dll
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.pdb
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\213020PrivateConstructor.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020PrivateConstructor\213020PrivateConstructor\obj\Debug\net6.0\ref\213020PrivateConstructor.dll

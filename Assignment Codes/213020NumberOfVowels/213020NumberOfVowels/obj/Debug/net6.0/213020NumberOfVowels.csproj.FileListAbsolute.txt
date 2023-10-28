@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\bin\Debug\net6.0\213020NumberOfVowels.exe
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\bin\Debug\net6.0\213020NumberOfVowels.deps.json
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\bin\Debug\net6.0\213020NumberOfVowels.runtimeconfig.json
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\bin\Debug\net6.0\213020NumberOfVowels.dll
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\bin\Debug\net6.0\213020NumberOfVowels.pdb
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.dll
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\refint\213020NumberOfVowels.dll
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.pdb
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\213020NumberOfVowels.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020NumberOfVowels\213020NumberOfVowels\obj\Debug\net6.0\ref\213020NumberOfVowels.dll

@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\bin\Debug\net6.0\213020SingleCastDelegates.exe
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\bin\Debug\net6.0\213020SingleCastDelegates.deps.json
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\bin\Debug\net6.0\213020SingleCastDelegates.runtimeconfig.json
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\bin\Debug\net6.0\213020SingleCastDelegates.dll
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\bin\Debug\net6.0\213020SingleCastDelegates.pdb
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.dll
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\refint\213020SingleCastDelegates.dll
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.pdb
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\213020SingleCastDelegates.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020SingleCastDelegates\213020SingleCastDelegates\obj\Debug\net6.0\ref\213020SingleCastDelegates.dll

@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\bin\Debug\net6.0\213020HierarchicalInheritance.exe
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\bin\Debug\net6.0\213020HierarchicalInheritance.deps.json
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\bin\Debug\net6.0\213020HierarchicalInheritance.runtimeconfig.json
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\bin\Debug\net6.0\213020HierarchicalInheritance.dll
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\bin\Debug\net6.0\213020HierarchicalInheritance.pdb
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.dll
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\refint\213020HierarchicalInheritance.dll
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.pdb
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\213020HierarchicalInheritance.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020HierarchicalInheritance\213020HierarchicalInheritance\obj\Debug\net6.0\ref\213020HierarchicalInheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\bin\Debug\net6.0\213020CopyConstructor.exe
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\bin\Debug\net6.0\213020CopyConstructor.deps.json
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\bin\Debug\net6.0\213020CopyConstructor.runtimeconfig.json
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\bin\Debug\net6.0\213020CopyConstructor.dll
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\bin\Debug\net6.0\213020CopyConstructor.pdb
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.dll
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\refint\213020CopyConstructor.dll
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.pdb
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\213020CopyConstructor.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020CopyConstructor\213020CopyConstructor\obj\Debug\net6.0\ref\213020CopyConstructor.dll

@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\bin\Debug\net6.0\213020SmallestSingleDigitFactor.exe
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\bin\Debug\net6.0\213020SmallestSingleDigitFactor.deps.json
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\bin\Debug\net6.0\213020SmallestSingleDigitFactor.runtimeconfig.json
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\bin\Debug\net6.0\213020SmallestSingleDigitFactor.dll
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\bin\Debug\net6.0\213020SmallestSingleDigitFactor.pdb
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.dll
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\refint\213020SmallestSingleDigitFactor.dll
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.pdb
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\213020SmallestSingleDigitFactor.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020SmallestSingleDigitFactor\213020SmallestSingleDigitFactor\obj\Debug\net6.0\ref\213020SmallestSingleDigitFactor.dll

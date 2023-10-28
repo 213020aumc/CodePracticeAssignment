@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\bin\Debug\net6.0\213020ConceptsOfEnumerations.exe
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\bin\Debug\net6.0\213020ConceptsOfEnumerations.deps.json
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\bin\Debug\net6.0\213020ConceptsOfEnumerations.runtimeconfig.json
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\bin\Debug\net6.0\213020ConceptsOfEnumerations.dll
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\bin\Debug\net6.0\213020ConceptsOfEnumerations.pdb
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.dll
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\refint\213020ConceptsOfEnumerations.dll
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.pdb
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\213020ConceptsOfEnumerations.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020ConceptsOfEnumerations\213020ConceptsOfEnumerations\obj\Debug\net6.0\ref\213020ConceptsOfEnumerations.dll

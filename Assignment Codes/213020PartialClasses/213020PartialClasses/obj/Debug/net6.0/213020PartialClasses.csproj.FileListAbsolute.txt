@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\bin\Debug\net6.0\213020PartialClasses.exe
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\bin\Debug\net6.0\213020PartialClasses.deps.json
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\bin\Debug\net6.0\213020PartialClasses.runtimeconfig.json
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\bin\Debug\net6.0\213020PartialClasses.dll
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\bin\Debug\net6.0\213020PartialClasses.pdb
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.AssemblyInfo.cs
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.dll
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\refint\213020PartialClasses.dll
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.pdb
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\213020PartialClasses.genruntimeconfig.cache
+C:\Users\muham\source\repos\213020PartialClasses\213020PartialClasses\obj\Debug\net6.0\ref\213020PartialClasses.dll
